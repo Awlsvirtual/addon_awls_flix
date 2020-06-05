@@ -7,3 +7,133 @@
 <info>Seção de filmes recem lançados.</info>
 </channel>
 </channels>
+
+<channels>
+<channel>
+<name>[B]Ação e Policial[/B]</name>
+<thumbnail>http://tinyurl.com.br/awlsicon</thumbnail>
+<externallink>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</externallink>
+<fanart>http://tinyurl.com.br/awlscapa</fanart>
+<info>Seção de filmes de ação.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[B]Aventura[/B]</name>
+<thumbnail>http://tinyurl.com.br/awlsicon</thumbnail>
+<externallink>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</externallink>
+<fanart>http://tinyurl.com.br/awlscapa</fanart>
+<info>Seção de filmes de aventura.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[B]Bíblico[/B]</name>
+<thumbnail>http://tinyurl.com.br/awlsicon</thumbnail>
+<externallink>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</externallink>
+<fanart>http://tinyurl.com.br/awlscapa</fanart>
+<info>Seção de filmes bíblicos.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[B]Clássicos[/B]</name>
+<thumbnail>http://tinyurl.com.br/awlsicon</thumbnail>
+<externallink>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</externallink>
+<fanart>http://tinyurl.com.br/awlscapa</fanart>
+<info>Seção de filmes clássicos.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[B]Comédia[/B]</name>
+<thumbnail>http://tinyurl.com.br/awlsicon</thumbnail>
+<externallink>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</externallink>
+<fanart>http://tinyurl.com.br/awlscapa</fanart>
+<info>Seção de filmes de comédia.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[B]DC[/B]</name>
+<thumbnail>http://tinyurl.com.br/awlsicon</thumbnail>
+<externallink>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</externallink>
+<fanart>http://tinyurl.com.br/awlscapa</fanart>
+<info>Seção de filmes da DC.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[B]Drama[/B]</name>
+<thumbnail>http://tinyurl.com.br/awlsicon</thumbnail>
+<externallink>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</externallink>
+<fanart>http://tinyurl.com.br/awlscapa</fanart>
+<info>Seção de filmes de drama.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[B]Épico[/B]</name>
+<thumbnail>http://tinyurl.com.br/awlsicon</thumbnail>
+<externallink>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</externallink>
+<fanart>http://tinyurl.com.br/awlscapa</fanart>
+<info>Seção de filmes de épico.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[B]Faroeste[/B]</name>
+<thumbnail>http://tinyurl.com.br/awlsicon</thumbnail>
+<externallink>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</externallink>
+<fanart>http://tinyurl.com.br/awlscapa</fanart>
+<info>Seção de filmes de faroeste.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[B]Ficção[/B]</name>
+<thumbnail>http://tinyurl.com.br/awlsicon</thumbnail>
+<externallink>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</externallink>
+<fanart>http://tinyurl.com.br/awlscapa</fanart>
+<info>Seção de filmes de ficção.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[B]Marvel[/B]</name>
+<thumbnail>http://tinyurl.com.br/awlsicon</thumbnail>
+<externallink>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</externallink>
+<fanart>http://tinyurl.com.br/awlscapa</fanart>
+<info>Seção de filmes da Marvel.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[B]Nacional[/B]</name>
+<thumbnail>http://tinyurl.com.br/awlsicon</thumbnail>
+<externallink>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</externallink>
+<fanart>http://tinyurl.com.br/awlscapa</fanart>
+<info>Seção de filmes nacionais.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[B]Terror e Suspense[/B]</name>
+<thumbnail>http://tinyurl.com.br/awlsicon</thumbnail>
+<externallink>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</externallink>
+<fanart>http://tinyurl.com.br/awlscapa</fanart>
+<info>Seção de filmes de terror e suspense.</info>
+</channel>
+</channels>
