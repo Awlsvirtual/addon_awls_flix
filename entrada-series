@@ -1,23 +1,29 @@
-<item>
-<title>[B]Série 1[/B]</title>
-<externallink>XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</externallink>
+<channels>
+<channel>
+<name>[B]Série 1[/B]</name>
 <thumbnail>http://tinyurl.com.br/awlsicon</thumbnail>
+<externallink>xxxxxxxxxxxxxxxxxxxx</externallink>
 <fanart>http://tinyurl.com.br/awlscapa</fanart>
 <info>Seção de seriados do Awls Flix.</info>
-</item>
+</channel>
+</channels>
 
-<item>
-<title>[B]Série 2[/B]</title>
-<externallink>XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</externallink>
+<channels>
+<channel>
+<name>[B]Série 2[/B]</name>
 <thumbnail>http://tinyurl.com.br/awlsicon</thumbnail>
+<externallink>xxxxxxxxxxxxxxxxxxxx</externallink>
 <fanart>http://tinyurl.com.br/awlscapa</fanart>
 <info>Seção de seriados do Awls Flix.</info>
-</item>
+</channel>
+</channels>
 
-<item>
-<title>[B]Série 3[/B]</title>
-<externallink>XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</externallink>
+<channels>
+<channel>
+<name>[B]Série 3[/B]</name>
 <thumbnail>http://tinyurl.com.br/awlsicon</thumbnail>
+<externallink>xxxxxxxxxxxxxxxxxxxx</externallink>
 <fanart>http://tinyurl.com.br/awlscapa</fanart>
 <info>Seção de seriados do Awls Flix.</info>
-</item>
+</channel>
+</channels>
