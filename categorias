@@ -2,7 +2,7 @@
 <channel>
 <name>[B]FILMES AWLS FLIX[/B]</name>
 <thumbnail>http://tinyurl.com.br/awlsicon</thumbnail>
-<externallink>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</externallink>
+<externallink>https://github.com/Awlsvirtual/addon_awls_flix/raw/master/entrada-filmes</externallink>
 <fanart>http://tinyurl.com.br/awlscapa</fanart>
 <info>Seção de filmes do Awls Flix</info>
 </channel>
@@ -14,7 +14,7 @@
 <channel>
 <name>[B]SÉRIES AWLS FLIX[/B]</name>
 <thumbnail>http://tinyurl.com.br/awlsicon</thumbnail>
-<externallink>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</externallink>
+<externallink>https://github.com/Awlsvirtual/addon_awls_flix/raw/master/entrada-series</externallink>
 <fanart>http://tinyurl.com.br/awlscapa</fanart>
 <info>Seção de séries do Awls Flix</info>
 </channel>
@@ -26,7 +26,7 @@
 <channel>
 <name>[B]DOCUMENTÁRIOS AWLS FLIX[/B]</name>
 <thumbnail>http://tinyurl.com.br/awlsicon</thumbnail>
-<externallink>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</externallink>
+<externallink>https://github.com/Awlsvirtual/addon_awls_flix/raw/master/entrada-docs</externallink>
 <fanart>http://tinyurl.com.br/awlscapa</fanart>
 <info>Seção de documentários do Awls Flix</info>
 </channel>
