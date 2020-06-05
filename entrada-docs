@@ -1,23 +1,29 @@
-<item>
-<title>[B]Doc's Bíblicos[/B]</title>
+<channels>
+<channel>
+<name>[B]Doc's Bíblicos[/B]</name>
 <externallink>XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</externallink>
 <thumbnail>http://tinyurl.com.br/awlsicon</thumbnail>
 <fanart>http://tinyurl.com.br/awlscapa</fanart>
 <info>Seção de documentários bíblicos do Awls Flix.</info>
-</item>
+</channel>
+</channels>
 
-<item>
-<title>[B]Doc's História[/B]</title>
+<channels>
+<channel>
+<name>[B]Doc's História[/B]</name>
 <externallink>XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</externallink>
 <thumbnail>http://tinyurl.com.br/awlsicon</thumbnail>
 <fanart>http://tinyurl.com.br/awlscapa</fanart>
 <info>Seção de documentários sobre história do Awls Flix.</info>
-</item>
+</channel>
+</channels>
 
-<item>
-<title>[B]Doc's Natureza[/B]</title>
+<channels>
+<channel>
+<name>[B]Doc's Natureza[/B]</name>
 <externallink>XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</externallink>
 <thumbnail>http://tinyurl.com.br/awlsicon</thumbnail>
 <fanart>http://tinyurl.com.br/awlscapa</fanart>
 <info>Seção de documentários sobre natureza do Awls Flix.</info>
-</item>
+</channel>
+</channels>
