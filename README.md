@@ -1,1 +1,1 @@
-# addon_awls_flix
+# Awls Flix 1.0
