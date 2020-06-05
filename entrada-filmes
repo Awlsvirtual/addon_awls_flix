@@ -1,19 +1,10 @@
 <channels>
 <channel>
 <title>[B]Lançamentos[/B]</title>
-<externallink>XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</externallink>
-<thumbnail>http://tinyurl.com.br/awlsicon</thumbnail>
+<thumbnail>https://media.istockphoto.com/vectors/play-button-icon-vector-id1032729300</thumbnail>
+<externallink>https://</externallink>
 <fanart>http://tinyurl.com.br/awlscapa</fanart>
 <info>Seção de filmes recem lançados.</info>
 <genre>Lançamento</genre>
-</channel>
-
-<channel>
-<title>[B]Ação[/B]</title>
-<externallink>XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</externallink>
-<thumbnail>http://tinyurl.com.br/awlsicon</thumbnail>
-<fanart>http://tinyurl.com.br/awlscapa</fanart>
-<info>Seção de filmes recem lançados.</info>
-<genre>Ação</genre>
 </channel>
 </channels>
