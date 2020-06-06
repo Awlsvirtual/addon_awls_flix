@@ -12,7 +12,7 @@
 <channel>
 <name>[B]Ação e Policial[/B]</name>
 <thumbnail>http://tinyurl.com.br/awlsicon</thumbnail>
-<externallink>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</externallink>
+<externallink>https://github.com/Awlsvirtual/addon_awls_flix/raw/master/entrada-filmes-acao</externallink>
 <fanart>http://tinyurl.com.br/awlscapa</fanart>
 <info>Seção de filmes de ação.</info>
 </channel>
@@ -137,3 +137,4 @@
 <info>Seção de filmes de terror e suspense.</info>
 </channel>
 </channels>
+
