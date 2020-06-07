@@ -6,6 +6,24 @@
 <info>Documentário de tv: A nova ordem mundial chinesa</info>
 <genre>Documentário</genre>
 </item>
+
+<item>
+<title>Alcatraz: Em busca da verdade</title>
+<link>plugin://plugin.video.youtube/play/?video_id=-CVO78vvZ6I</link>
+<thumbnail>http://tinyurl.com.br/awlsicon</thumbnail>
+<fanart>http://tinyurl.com.br/awlscapa</fanart>
+<info>Documentário de tv: Alcatraz: Em busca da verdade</info>
+<genre>Documentário</genre>
+</item>
+
+<item>
+<title>Coreia do Norte - Segredos Obscuros</title>
+<link>plugin://plugin.video.youtube/play/?video_id=WzwuoqWvOHs</link>
+<thumbnail>http://tinyurl.com.br/awlsicon</thumbnail>
+<fanart>http://tinyurl.com.br/awlscapa</fanart>
+<info>Documentário de tv: Coreia do Norte - Segredos Obscuros</info>
+<genre>Documentário</genre>
+</item>
  
 <item>
 <title>Os mistérios do Titanic</title>
