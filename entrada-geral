@@ -2,9 +2,12 @@
 <channel>
 <name>SEJAM BEM VINDOS - AWLS FLIX</name>
 <thumbnail>http://tinyurl.com.br/awlsicon</thumbnail>
-<externallink>https://</externallink>
+<externallink>XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</externallink>
 <fanart>http://tinyurl.com.br/awlscapa</fanart>
-<info>AWLS FLIX: Filmes e Séries</info>
+<info>AWLS FLIX: Filmes, Séries, Documentários, e Animações.
+Aviso: Não hospedamos conteúdo, apenas reunimos links disponíveis na internet.
+Obrigado!
+</info>
 </channel>
 </channels>
 
@@ -16,6 +19,6 @@
 <thumbnail>http://tinyurl.com.br/awlsicon</thumbnail>
 <externallink>https://github.com/Awlsvirtual/addon_awls_flix/raw/master/categorias</externallink>
 <fanart>http://tinyurl.com.br/awlscapa</fanart>
-<info>Clique para acessar o nosso conteúdo!</info>
+<info>Clique para acessar o nosso conteúdo através das categorias!</info>
 </channel>
 </channels>
