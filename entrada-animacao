@@ -4,7 +4,7 @@
 <thumbnail>http://tinyurl.com.br/awlsicon</thumbnail>
 <externallink>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</externallink>
 <fanart>http://tinyurl.com.br/awlscapa</fanart>
-<info>Seção de filmes recem lançados.</info>
+<info>Seção de animação geral.</info>
 </channel>
 </channels>
 
@@ -14,17 +14,7 @@
 <thumbnail>http://tinyurl.com.br/awlsicon</thumbnail>
 <externallink>https://github.com/Awlsvirtual/addon_awls_flix/raw/master/entrada-animacao-batman</externallink>
 <fanart>http://tinyurl.com.br/awlscapa</fanart>
-<info>Seção de filmes recem lançados.</info>
-</channel>
-</channels>
-
-<channels>
-<channel>
-<name>[B]Batman - Série Animada[/B]</name>
-<thumbnail>http://tinyurl.com.br/awlsicon</thumbnail>
-<externallink>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</externallink>
-<fanart>http://tinyurl.com.br/awlscapa</fanart>
-<info>Seção de filmes recem lançados.</info>
+<info>Seção de animações do Batman.</info>
 </channel>
 </channels>
 
@@ -34,7 +24,7 @@
 <thumbnail>http://tinyurl.com.br/awlsicon</thumbnail>
 <externallink>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</externallink>
 <fanart>http://tinyurl.com.br/awlscapa</fanart>
-<info>Seção de filmes recem lançados.</info>
+<info>Seção de animações da DC Comics.</info>
 </channel>
 </channels>
 
@@ -44,6 +34,6 @@
 <thumbnail>http://tinyurl.com.br/awlsicon</thumbnail>
 <externallink>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</externallink>
 <fanart>http://tinyurl.com.br/awlscapa</fanart>
-<info>Seção de filmes recem lançados.</info>
+<info>Seção de animações da Marvel.</info>
 </channel>
 </channels>
